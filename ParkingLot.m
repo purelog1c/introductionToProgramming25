@@ -1,4 +1,4 @@
-%parameters
+%parametersSmallAddition
 maxSpaces=100;
 i=1;
 err=0;
